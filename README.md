@@ -8,15 +8,7 @@ This project applies **noise reduction filters** (Adaptive Median + Weighted Mea
 - Evaluates results with MSE & PSNR
 - Saves results to CSV
 
-##  Dataset
-Place your dataset in: C:\Users\souma\Downloads\archive (2)\brain_tumor_dataset
 
-
-with subfolders:
-- `yes/` → images with tumor
-- `no/` → images without tumor
-
----
 
 ##  Installation
 Clone the repository and install dependencies:
