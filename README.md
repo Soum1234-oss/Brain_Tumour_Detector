@@ -8,4 +8,22 @@ This project applies **noise reduction filters** (Adaptive Median + Weighted Mea
 - Evaluates results with MSE & PSNR
 - Saves results to CSV
 
+##  Dataset
+Place your dataset in: C:\Users\souma\Downloads\archive (2)\brain_tumor_dataset
+
+
+with subfolders:
+- `yes/` → images with tumor
+- `no/` → images without tumor
+
+---
+
+##  Installation
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Soum1234-oss/Brain_Tumour_Detector.git
+cd Brain_Tumour_Detector
+pip install -r requirements.txt
+
 
